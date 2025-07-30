@@ -1,0 +1,24 @@
+
+<html>
+<head>
+  <title>Flavors</title>
+</head>
+<body bgcolor="lightgreen">
+  <nav>
+    <a href="index.html">Home</a> |
+    <a href="flavors.html">Flavors</a> |
+    <a href="about.html">About Us</a> |
+    <a href="contact.html">Contact</a> |
+    <a href="offers.html">Offers</a>
+  </nav>
+    <img src="ii.jpg" height="300" width="400">
+  <h2>Vanilla Delight</h2>
+  <p>Classic creamy vanilla with a rich taste.</p>
+  <h2>Chocolate Heaven</h2>
+  <p>Loaded with real cocoa and chocolate chips.</p>
+  <h2>Strawberry Swirl</h2>
+  <p>Fresh strawberry ice cream with fruity swirls.</p>
+  <h2>Pineapple Punch</h2>
+  <p>A tropical twist of sweet and sour pineapple.</p>
+</body>
+</html>
