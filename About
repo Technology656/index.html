@@ -1,1 +1,25 @@
-A
+
+<html>
+<head>
+  <title>About</title>
+</head>
+<body bgcolor="pink">
+    <a href="index.html">Home</a> |
+    <a href="flavors.html">Flavors</a> |
+    <a href="about.html">About Us</a> |
+    <a href="contact.html">Contact</a> |
+    <a href="offers.html">Offers</a>
+ 
+  <p>CoolTreats was started in 2025 with the dream of spreading happiness through ice cream. We use natural ingredients and serve with love.</p>
+  
+  <hr>
+  <h2>Who We Are</h2>
+  <p><strong>CoolTreats Ice Cream</strong> is your go-to destination for refreshing, creamy, and delicious ice cream made with love. We serve happiness in every scoop with unique flavors and unforgettable taste.</p>
+  <h2>Our Journey</h2>
+  <p>Our journey began in a small street of mirpurkhar in 2025, with just one freezer and a big dream — to bring joy to every heart with the best ice cream in town.</p>
+  <h2>Our Mission & Quality</h2>
+  <p>Our mission is to serve high-quality, fresh, and hygienic ice cream at affordable prices. We use natural ingredients, avoid harmful chemicals, and believe in creating sweet memories with every bite.</p>
+</body>
+</html>
+</body>
+</html>
