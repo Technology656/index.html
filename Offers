@@ -1,0 +1,19 @@
+
+<html>
+<head>
+  <title>Special Offers</title>
+</head>
+<body bgcolor="gray">
+    <a href="index.html">Home</a> |
+    <a href="flavors.html">Flavors</a> |
+    <a href="about.html">About Us</a> |
+    <a href="contact.html">Contact</a> |
+    <a href="offers.html">Offers</a>
+
+  <ul>
+    <li>🍦Buy 1 Get 1 Free – On All Vanilla Products</li>
+    <li>🍫20% Off – Chocolate Sundaes Every Friday</li>
+    <li>🎁Free Cone – On Orders Above Rs.500</li>
+  </ul>
+</body>
+</html>
