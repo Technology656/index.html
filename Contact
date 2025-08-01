@@ -1,0 +1,25 @@
+
+<html>
+<head>
+  <title>Contact</title>
+</head>
+<body bgcolor="skyblue">
+    <a href="index.html">Home</a> |
+    <a href="flavors.html">Flavors</a> |
+    <a href="about.html">About Us</a> |
+    <a href="contact.html">Contact</a> |
+    <a href="offers.html">Offers</a>
+ 
+
+  <p>Email: i am suneeta.com</p>
+  <p>Phone: +92-3015428987</p>
+  <p>Address: Ice Cream Street, Mirpurkhar, Pakistan</p>
+
+  <h2>Send us a message:</h2>
+  <form>
+    Name: <input type="text" name="name"><br><br>
+    Message: <textarea name="message"></textarea><br><br>
+    <input type="submit" value="Send">
+  </form>
+</body>
+</html>
